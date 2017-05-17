@@ -1,0 +1,2 @@
+model_checkpoint_path: "age_transfer2"
+all_model_checkpoint_paths: "age_transfer2"
